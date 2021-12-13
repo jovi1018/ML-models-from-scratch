@@ -5,3 +5,4 @@
 3. Logistic Regression Model (Multi Classes - One_VS_All) without regularization term
 4. Dimensionality Reduction: Principal ipal Components Analysis (PCA) 
 5. K-Nearest-Neighbors Classifier - KNN
+6. KMeans Clustering
