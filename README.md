@@ -6,4 +6,4 @@
 4. Dimensionality Reduction: Principal ipal Components Analysis (PCA) 
 5. K-Nearest-Neighbors Classifier - KNN
 6. KMeans Clustering
-7. Gauissan Naive Bayes - Log-likelihood to avoid underflow issue
+7. Gauissan Naive Bayes - Log-likelihood to avoid underflow issue. 
